@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IDisposable.Properties
+namespace IDisposableIO.Properties
 {
 
 

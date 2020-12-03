@@ -83,6 +83,8 @@
   <ItemGroup>
     <Content Include="Tutorial_197 IDisposable pt 1\L197 notes and highlights from comments area.txt" />
     <Content Include="Tutorial_197 IDisposable pt 1\L197 form1CS.txt" />
+    <Content Include="Tutorial_198 IDisposable pt 2\L198 notes and highlights from comments area.txt" />
+    <Content Include="Tutorial_198 IDisposable pt 2\L198 form1CS.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
